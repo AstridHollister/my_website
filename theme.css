@@ -1,7 +1,22 @@
 h1 {
-  font-size 100px
-  color:#33FFCA
-  color:#DF3FFF
-  color:#FE3782
-  color:#FE3740
+  font-size 100px;
+  color:#FE3740;
 }
+h2 {
+  font-size 80px;
+  color:#33FFCA;
+}
+h3 {
+  font-size 80px;
+   color:#DF3FFF;
+}
+h4 {
+  font-size 80px;
+  color:#FE3782;
+}
+  .button {
+    background: #FD33TT;
+    padding: 50px 20px;
+}
+    
+    
