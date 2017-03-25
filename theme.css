@@ -18,5 +18,7 @@ h4 {
     background: #FD33TT;
     padding: 50px 20px;
 }
-    
-    
+ 
+nav li {
+  display:inline-block;
+}
